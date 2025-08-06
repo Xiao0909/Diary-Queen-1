@@ -84,4 +84,4 @@ Key Advantage:
 * Maintains Spring's modularity and enterprise capabilities
 
 **Other Similar Class Work Practices**
-git@github.com:Xiao0909/soit.git
+[git@github.com:Xiao0909/soit.git](https://github.com/Xiao0909/soit.git)
